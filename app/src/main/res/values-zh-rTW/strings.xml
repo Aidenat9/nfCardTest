@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">NFCard</string>
+    <string name="app_name">NFC-Test</string>
     <string name="font_oem1">fonts/oem1.ttf</string>
     <string name="font_oem2">fonts/oem2.ttf</string>
     <string name="font_oem3">fonts/oem3hk.ttf</string>
